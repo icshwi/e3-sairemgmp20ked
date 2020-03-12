@@ -1,5 +1,1 @@
-
-e3-sairemgmp20ked  
-======
-ESS Site-specific EPICS module : sairemgmp20ked
-
+This module is obselete: See https://gitlab.esss.lu.se/icshwi/e3-sairem
